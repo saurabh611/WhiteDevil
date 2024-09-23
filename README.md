@@ -19,8 +19,10 @@ WhiteDevil is a comprehensive tool for collecting website information and perfor
    git clone https://github.com/yourusername/WhiteDevil.git
    cd WhiteDevil
 2. Install the required dependencies:
+   ```bash 
    pip install -r requirements.txt
 3. Run the tool:
+   ```bash
    python whiteDevil.py
 
 
